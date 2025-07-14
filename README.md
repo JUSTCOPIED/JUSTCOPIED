@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**JUSTCOPIED/JUSTCOPIED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering student** specializing in **AI, cybersecurity, and full-stack development**.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Python, JavaScript, React, Next.js  
+- **Tools:** Git, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work  
+- Researching **AI governance** (e.g., EU AI Act)
+
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/vansh-agarwal-088b75245/)  
