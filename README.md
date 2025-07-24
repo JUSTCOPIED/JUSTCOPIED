@@ -7,7 +7,7 @@
 - **Tools:** Git, MongoDB
 
 ## Current Work  
-- Researching **AI governance** (e.g., EU AI Act)
+- Researching **AI governance** 
 
 
 ## Contact
