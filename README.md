@@ -7,7 +7,7 @@
 - **Tools:** Git, MongoDB ,firebase 
 
 ## Current Work  
-- Researching **AI governance** 
+- Researching **AI governance & Ethics** 
 
 
 ## Contact
