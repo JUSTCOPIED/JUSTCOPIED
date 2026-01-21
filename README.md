@@ -8,6 +8,7 @@
 
 ## Current Work  
 - Researching **AI governance & Ethics** 
+- Learning **MCP**
 
 
 ## Contact
