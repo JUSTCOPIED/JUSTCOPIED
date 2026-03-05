@@ -9,7 +9,8 @@
 ## Current Work  
 - Researching **AI governance & Ethics** 
 - Learning **MCP**
-- Learning Dokploy
+- Learning Dokploy and self hosted infra
+  
   
 
 ## Contact
